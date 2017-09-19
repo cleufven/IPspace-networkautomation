@@ -10,3 +10,6 @@ On the same ESXi host I have a Ubuntu 17 VM that has ansible, git and emacs.
 ## Lab topology in VIRL
 In Cisco VIRL I have 2 IOSv Layer 2 devices, 2 CSR1000V and 2 NX-OSv devices.
 All the devices are accessible over SSH on the mgmt port from the Ubuntu VM running ansible.
+
+## Github
+To drive Github from Emacs I use magit-mode.
